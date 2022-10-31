@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for 5 months now starting off with Udemy courses from Angela Yu, Colt Steele, Jonash Schmedtmann, and Maximilian Schwarzmüller, as well as The Odin Project.
 
 *   🌍  I'm based in UK
-*   🖥️  See my portfolio at [Leon Lonsdale](http://leonlonsdale.co.uk)
+*   🖥️  See my portfolio at [Leon Lonsdale](http://leonlonsdale.co.uk) (under construction)
 *   🧠  I'm learning Node, Express, MongoDB, Mongoose, and EJS.
 
 <a href="https://www.twitter.com/leonlonsdale" target="_blank" rel="noreferrer"><img
