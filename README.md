@@ -8,7 +8,9 @@ I've been learning to code for 5 months now starting off with Udemy courses from
 
 *   🌍  I'm based in UK
 *   🖥️  See my portfolio at [Leon Lonsdale](http://leonlonsdale.co.uk)
-*   🧠  I'm learning Node, Express, MongoDB, Mongoose, and EJS.<a href="https://www.twitter.com/leonlonsdale" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Node, Express, MongoDB, Mongoose, and EJS.
+
+<a href="https://www.twitter.com/leonlonsdale" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/leonlonsdale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/Sen-Nyin" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Sen-Nyin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -31,7 +33,7 @@ I've been learning to code for 5 months now starting off with Udemy courses from
                   
 <p align="left">
                           
-<a href="https://discord.com/users/bAwyVvG2RH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.github.com/Sen-Nyin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><a href="https://www.twitter.com/leonlonsdale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.twitch.tv/leoncodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<a href="https://discord.com/users/bAwyVvG2RH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sen-Nyin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/leonlonsdale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/leoncodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges<b>My GitHub Stats</b>
 <a href="http://www.github.com/Sen-Nyin"><img src="https://github-readme-stats.vercel.app/api?username=Sen-Nyin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sen-Nyin's GitHub stats" /></a>
